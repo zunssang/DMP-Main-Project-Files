@@ -1,7 +1,10 @@
 # Prerequisites
 *.d
 *.MP4
-
+*.wav
+*.mov
+*.ARW
+*.png
 
 # Object files
 *.o
