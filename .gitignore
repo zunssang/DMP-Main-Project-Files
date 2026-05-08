@@ -5,6 +5,9 @@
 *.mov
 *.ARW
 *.png
+*.mpeg
+*.mp3
+*.xmp
 
 # Object files
 *.o
