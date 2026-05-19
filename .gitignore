@@ -8,6 +8,9 @@
 *.mpeg
 *.mp3
 *.xmp
+*.aep
+*.cfa
+%.pek
 
 # Object files
 *.o
